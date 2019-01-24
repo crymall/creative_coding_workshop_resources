@@ -11,6 +11,8 @@
 * [List of Free APIs](https://github.com/toddmotto/public-apis)
 * [NPM Twitter](https://www.npmjs.com/package/twitter)
 * [NPM Markov](https://www.npmjs.com/package/markov)
+* [p5.js](https://p5js.org/)
+* [p5.play](http://molleindustria.github.io/p5.play/)
 
 ## Examples
 * [Taroko Gorge](http://nickm.com/poems/taroko_gorge.html)
