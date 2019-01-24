@@ -7,6 +7,8 @@
 * [N-Grams and Markov Chains](http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/)
 * [Corpora](https://github.com/dariusk/corpora/tree/master/data)
 * [Project Gutenberg](https://www.gutenberg.org/)
+* [NYC Open Data](https://opendata.cityofnewyork.us/data/)
+* [List of Free APIs](https://github.com/toddmotto/public-apis)
 * [NPM Twitter](https://www.npmjs.com/package/twitter)
 * [NPM Markov](https://www.npmjs.com/package/markov)
 
